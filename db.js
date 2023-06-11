@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 const connection = mongoose.connect(
-  "mongodb+srv://dwipayan:barman@cluster0.m53osop.mongodb.net/deployData"
+  "mongodb+srv://gagan:gagan@cluster0.jwtqx79.mongodb.net/deployData"
 );
 
 module.exports = { connection };
